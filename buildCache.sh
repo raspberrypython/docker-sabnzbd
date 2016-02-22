@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-docker build --rm -t timhaak/sabnzbd .
+docker build --rm -t raspberrypython/sabnzbd .
